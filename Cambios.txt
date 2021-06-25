@@ -1,0 +1,8 @@
+Saludos!! 
+Utilizare este bloc de notas para informar de los cambios que hare en el proyecto web:
+- Agregue nuevos y diferentes categorias como palabras claves en mis 5 paginas html, cada una tiene presente aproximadamente 2 a 3 palabras clave diferentes.
+- Les agregue diferentes titulos de paginas para diferenciar y ramificar mejor.
+- Aun tengo pendiento comprimir las imagenes para un bajo consumo de archivo.
+- Quite Sass por que no maquinaba correctamente nada.
+- Cambiare pronto el logo y imagenes por vectores.
+- No sumare Videos.
